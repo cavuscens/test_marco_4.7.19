@@ -1,6 +1,8 @@
 -- the first program in every language
 -- Modif marco 5-07-19
 
+-- Modif marco du 15-07-19
+
 package.path = "c:\\users\\admin\\prog_lua\\samples"
 
 myprint = function(param)
